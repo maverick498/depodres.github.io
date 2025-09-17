@@ -1,0 +1,28 @@
+{
+  "id": "/",
+  "name": "G3 Depo",
+  "short_name": "G3 Depo",
+  "description": "Depo lokasyonları, RF bilgileri ve barkod yönetim uygulaması",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/G3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/G3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "tr"
+}
